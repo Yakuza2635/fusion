@@ -1,22 +1,70 @@
 [
   {
     "id": "dolbyvision",
-    "name": "Latest Dolby Vision",
-    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1742_Dolby%20Vision%20Poster_remix_01jv002xhhes1b0c8ypy1tfw6d.png"
+    "name": "Latest Dolby Vision Releases",
+    "category": "Quality",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Rows",
+    "backgroundImageURL": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1742_Dolby%20Vision%20Poster_remix_01jv002xhhes1b0c8ypy1tfw6d.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   },
   {
     "id": "remux",
-    "name": "Latest 4K Remux",
-    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1746_UltraHD Blu-ray Poster_remix_01jv00a3y3f1y90c1rm64cvrz4.png"
+    "name": "Latest 4K Remux Releases",
+    "category": "Quality",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Rows",
+    "backgroundImageURL": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1746_UltraHD%20Blu-ray%20Poster_remix_01jv00a3y3f1y90c1rm64cvrz4.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   },
   {
     "id": "uhd",
     "name": "Latest 4K Releases",
-    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1752_Cinematic 4K Release_remix_01jv00njr1eyttaswsdr0mybcd.png"
+    "category": "Quality",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Rows",
+    "backgroundImageURL": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1752_Cinematic%204K%20Release_remix_01jv00njr1eyttaswsdr0mybcd.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   },
   {
     "id": "fullhd",
-    "name": "Latest Full HD",
-    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1755_Cinematic Full HD Poster_remix_01jv00vb8hfjpvag6pm04m0nxf.png"
+    "name": "Latest Releases",
+    "category": "Quality",
+    "catalogIds": [],
+    "displayMode": "Rows",
+    "layout": "Rows",
+    "backgroundImageURL": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/20250511_1755_Cinematic%20Full%20HD%20Poster_remix_01jv00vb8hfjpvag6pm04m0nxf.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Below Folder",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
   }
 ]
