@@ -1,0 +1,22 @@
+[
+  {
+    "id": "dolbyvision",
+    "name": "Latest Dolby Vision",
+    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/dolbyvision.jpg"
+  },
+  {
+    "id": "remux",
+    "name": "Latest 4K Remux",
+    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/remux.jpg"
+  },
+  {
+    "id": "uhd",
+    "name": "Latest 4K Releases",
+    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/uhd.jpg"
+  },
+  {
+    "id": "fullhd",
+    "name": "Latest Full HD",
+    "poster": "https://raw.githubusercontent.com/yakuza2635/folders/main/genre/landscape/caesarius/fullhd.jpg"
+  }
+]
