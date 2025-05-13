@@ -1,4 +1,21 @@
-[
+a[
+  {
+    "id": "action",
+    "name": "action",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250513_2204_Cinematic%20Action%20Poster_remix_01jv5kwz4ffjgaghd7sptnyy6m.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
   {
     "id": "comedy",
     "name": "Comedy",
@@ -92,6 +109,23 @@
     "displayMode": "Grid",
     "layout": "Poster",
     "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250512_0551_Playful%20Glow_remix_01jv19tdmbem49c6z2yh5v128f.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
+    "id": "mistery",
+    "name": "mistery",
+    "category": "Genres",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250513_2202_Cinematic%20Mystery%20Poster_remix_01jv5ksyvye83t9pxf9x8svprj.png",
     "iconName": "film",
     "showIcon": false,
     "nameDisplayMode": "Hidden",
