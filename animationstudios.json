@@ -17,6 +17,23 @@
     "backgroundColor": "#000000"
   },
   {
+    "id": "illumination",
+    "name": "Illumination",
+    "category": "Animation Studios",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250513_2343_Illumination%20Gradient%20Poster_remix_01jv5sj3pzfrkr67kcs5jy8p5j.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
     "id": "pixar",
     "name": "Pixar",
     "category": "Animation Studios",
