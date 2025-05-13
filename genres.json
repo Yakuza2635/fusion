@@ -1,7 +1,7 @@
-a[
+[
   {
     "id": "action",
-    "name": "action",
+    "name": "Action",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
@@ -119,8 +119,8 @@ a[
     "backgroundColor": "#000000"
   },
   {
-    "id": "mistery",
-    "name": "mistery",
+    "id": "mystery",
+    "name": "Mystery",
     "category": "Genres",
     "catalogIds": [],
     "displayMode": "Grid",
