@@ -153,6 +153,23 @@
     "backgroundColor": "#000000"
   },
   {
+    "id": "itvx",
+    "name": "ITVx",
+    "category": "Streaming Services",
+    "catalogIds": [],
+    "displayMode": "Grid",
+    "layout": "Poster",
+    "backgroundImageURL": "https://raw.githubusercontent.com/Yakuza2635/fusion/main/genre/landscape/caesarius/20250519_1107_ITV%20Streaming%20Revolution_remix_01jvm02vghf5rvvwq6vzfqycfp.png",
+    "iconName": "film",
+    "showIcon": false,
+    "nameDisplayMode": "Hidden",
+    "mediaTypeFilter": "All Content",
+    "textSize": "Large",
+    "textWeight": "Bold",
+    "textColor": "#FFFFFF",
+    "backgroundColor": "#000000"
+  },
+  {
     "id": "jiohotstar",
     "name": "JioHotstar",
     "category": "Streaming Services",
